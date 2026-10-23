@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.2.0",
-  "apkUrl": "https://github.com/Paixjr/RouterManagementSystem-releases/releases/download/v1.1.0/app-release.apk",
+  "apkUrl": "https://github.com/Paixjr/RouterManagementSystem-releases/releases/download/v1.2.0/app-release.apk",
   "releaseNotes": "Biometric and face unlock, new router admin password page, router login setup, and update fixes."
 
 }
