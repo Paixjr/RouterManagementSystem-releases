@@ -2,5 +2,5 @@
   "versionCode": 6,
   "versionName": "1.2.3",
   "apkUrl": "https://github.com/Paixjr/RouterManagementSystem-releases/releases/download/v1.2.3/app-release.apk",
-  "releaseNotes": "New update release"
+  "releaseNotes": "Update release workflow for APK processing and validation"
 }
